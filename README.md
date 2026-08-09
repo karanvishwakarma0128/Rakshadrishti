@@ -328,7 +328,7 @@ The solution aims to support faster, coordinated, and technology-driven disaster
 # 📑 Project Presentation
 
 [📊 View Project Presentation](https://docs.google.com/presentation/d/1F9HkLod9nYZO0-3cyXvi7BKQLlLm_Bsa/edit?usp=drivesdk&ouid=106129252847095148858&rtpof=true&sd=true)
-
+[https://docs.google.com/presentation/d/1u_wNS9fQIFDS3XHH8O0bRJX7dmKeLfaf/edit?usp=sharing&ouid=113830229264112603998&rtpof=true&sd=true]
 
 # 🌐 Live Website
 
