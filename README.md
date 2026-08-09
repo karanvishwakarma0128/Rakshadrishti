@@ -333,9 +333,10 @@ The solution aims to support faster, coordinated, and technology-driven disaster
 # 🌐 Live Website
 
 Visit RakshaDrishti AI(https://disaster-response-ai--siddhipawar2212.replit.app)
+
 ## 🎥 Project Demo
 
-Watch Project Demo(https://drive.google.com/file/d/14ap7O_jdM06HtEcZnF1FxdpfeRYtduvg/view?usp=sharing)
+Watch Project Demo(https://drive.google.com/file/d/1lGRhkorp_yQSRkV8DsmsOxeEE4AkU-St/view?usp=sharing)
 
 
 # 👥 Team
