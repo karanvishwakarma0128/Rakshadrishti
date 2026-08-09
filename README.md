@@ -196,9 +196,7 @@ It provides:
                  RESCUE RESPONSE
                          ↓
                     SAVE LIVE
-
-
-
+```
 
 # 🛠️ Technology Stack
 
@@ -365,7 +363,7 @@ Future improvements can include:
 **Team:** VIJETA  
 **Tagline:** *Detect • Analyze • Alert • Save Lives*
 
-Developed as a hackathon project focused on applying **Artificial Intelligence and modern technology to real-world disaster management challenges.**
+Developed as a hackathon project focused on applying **Artificial Intelligence and modern technology to real-world disaster management challenges.
 
 
 # 📜 License
