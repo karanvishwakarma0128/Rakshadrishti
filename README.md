@@ -200,49 +200,53 @@ It provides:
 
 # 🛠️ Technology Stack
 
-## 🤖 AI / Machine Learning
+## 💻 Frontend
 
-- TensorFlow
-- PyTorch
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+## 🎨 UI & Interaction
+
+- Radix UI
+- Framer Motion
+- Lucide React
+- React Icons
+
+## 📝 Forms & Validation
+
+- React Hook Form
+- Zod
+
+## 📊 Data Visualization
+
+- Recharts
+
+## 🔗 API & Data Management
+
+- TanStack React Query
+- REST API architecture
+
+## 🤖 AI / Computer Vision — Planned Integration
+
 - Machine Learning
+- Computer Vision
+- YOLO
+- OpenCV
 - Predictive Analytics
 
-## 👁️ Computer Vision
+## 🗺️ Geospatial Intelligence — Planned Integration
 
-- OpenCV
-- YOLO
-- Image Processing
-
-## 🗺️ Maps & Geospatial Intelligence
-
-- Google Maps
-- Leaflet
 - GIS & Mapping
+- Google Maps / Leaflet
 
-## 🗄️ Database
-
-- PostgreSQL
-- MongoDB
-
-## ☁️ Cloud
-
-- AWS
-- Microsoft Azure
-- Google Cloud
-
-## 📡 IoT
+## 📡 IoT — Future Integration
 
 - Environmental Sensors
 - Weather Sensors
 - Flood Monitoring Sensors
-- Other Disaster Monitoring Devices
-
-## 🔗 APIs & Integration
-
-- REST APIs
-- External API Integration
-
-> **Note:** The technologies listed above represent the technology stack and architecture considered for the platform. The actual implementation may use a subset depending on the deployed modules.
+- Disaster Monitoring Devices
 
 
 # 🔄 How It Works
